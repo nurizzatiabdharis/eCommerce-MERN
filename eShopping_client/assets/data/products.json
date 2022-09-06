@@ -1,0 +1,125 @@
+[
+    {
+        "_id": "62ff93b494b618f091944937",
+        "name": "Knife Set",
+        "description": "Ceramic knife set (4pieces) ",
+        "richDescription": "Latest design 2022, Made in France",
+        "image": "some_knife",
+        "images": [],
+        "brand": "Tefal",
+        "price": 80,
+        "category": {
+            "_id": "62ff8494c7a56501e5ed84af",
+            "name": "kitchen",
+            "icon": "icon-kitchen",
+            "color": "#040404",
+            "__v": 0
+        },
+        "countInStock": 45,
+        "rating": 4.5,
+        "numReviews": 34,
+        "isFeatured": true,
+        "dateCreated": "2022-08-19T13:44:20.372Z",
+        "__v": 0,
+        "id": "62ff93b494b618f091944937"
+    },
+    {
+        "_id": "62ff93f694b618f09194493b",
+        "name": "Lipstick ",
+        "description": "Red Lipstick",
+        "richDescription": "Latest red lipstick",
+        "image": "some_lipstick",
+        "images": [],
+        "brand": "Maybelline",
+        "price": 80,
+        "category": {
+            "_id": "62ff8478c7a56501e5ed84aa",
+            "name": "cosmetic",
+            "icon": "icon-cosmetic",
+            "color": "#ffffff",
+            "__v": 0
+        },
+        "countInStock": 12,
+        "rating": 5,
+        "numReviews": 100,
+        "isFeatured": false,
+        "dateCreated": "2022-08-19T13:45:26.454Z",
+        "__v": 0,
+        "id": "62ff93f694b618f09194493b"
+    },
+    {
+        "_id": "62ff94d3c7d3245f41b0e3fd",
+        "name": "Foundation ",
+        "description": "Matte Foundation",
+        "richDescription": "Latest Foundation",
+        "image": "some_foundation",
+        "images": [],
+        "brand": "Maybelline",
+        "price": 32,
+        "category": {
+            "_id": "62ff8478c7a56501e5ed84aa",
+            "name": "cosmetic",
+            "icon": "icon-cosmetic",
+            "color": "#ffffff",
+            "__v": 0
+        },
+        "countInStock": 33,
+        "rating": 2,
+        "numReviews": 3,
+        "isFeatured": true,
+        "dateCreated": "2022-08-19T13:49:07.896Z",
+        "__v": 0,
+        "id": "62ff94d3c7d3245f41b0e3fd"
+    },
+    {
+        "_id": "63039a3221620d56979a93a0",
+        "name": "Concealer ",
+        "description": "Matte Concealer",
+        "richDescription": "Latest Concealer",
+        "image": "some_concealer",
+        "images": [],
+        "brand": "Maybelline",
+        "price": 32,
+        "category": {
+            "_id": "62ff8478c7a56501e5ed84aa",
+            "name": "cosmetic",
+            "icon": "icon-cosmetic",
+            "color": "#ffffff",
+            "__v": 0
+        },
+        "countInStock": 0,
+        "rating": 2,
+        "numReviews": 3,
+        "isFeatured": true,
+        "dateCreated": "2022-08-22T15:01:06.878Z",
+        "__v": 0,
+        "id": "63039a3221620d56979a93a0"
+    },
+    {
+        "_id": "6308a7bbd3e9be726699b788",
+        "name": "toto name long to test",
+        "description": "toto description",
+        "richDescription": "toto rechDesc",
+        "image": "http://localhost:3000/public/uploads/pan.jpg-1661511611287.jpeg",
+        "images": [
+            "http://localhost:3000/public/uploads/panphoto.jpeg-1661511642598.jpeg",
+            "http://localhost:3000/public/uploads/non-stick-frying-pan.jpeg-1661511642600.jpeg"
+        ],
+        "brand": "toto brand",
+        "price": 10,
+        "category": {
+            "_id": "62ff8494c7a56501e5ed84af",
+            "name": "kitchen",
+            "icon": "icon-kitchen",
+            "color": "#040404",
+            "__v": 0
+        },
+        "countInStock": 20,
+        "rating": 3,
+        "numReviews": 40,
+        "isFeatured": true,
+        "dateCreated": "2022-08-26T11:00:11.315Z",
+        "__v": 0,
+        "id": "6308a7bbd3e9be726699b788"
+    }
+]
