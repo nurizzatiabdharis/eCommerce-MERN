@@ -1,13 +1,13 @@
 [
     {
         "_id": "62ff93b494b618f091944937",
-        "name": "Knife Set",
+        "name": "Ipad Pro (2021) ",
         "description": "Ceramic knife set (4pieces) ",
         "richDescription": "Latest design 2022, Made in France",
-        "image": "some_knife",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipad-pro-12-11-select-202104_GEO_FR_FMT_WHH?wid=2000&hei=2000&fmt=jpeg&qlt=90&.v=1617865124000",
         "images": [],
-        "brand": "Tefal",
-        "price": 80,
+        "brand": "Apple",
+        "price": 1064.90,
         "category": {
             "_id": "62ff8494c7a56501e5ed84af",
             "name": "kitchen",
@@ -15,7 +15,7 @@
             "color": "#040404",
             "__v": 0
         },
-        "countInStock": 45,
+        "countInStock": 0,
         "rating": 4.5,
         "numReviews": 34,
         "isFeatured": true,
@@ -28,7 +28,6 @@
         "name": "Lipstick ",
         "description": "Red Lipstick",
         "richDescription": "Latest red lipstick",
-        "image": "some_lipstick",
         "images": [],
         "brand": "Maybelline",
         "price": 80,
@@ -52,7 +51,6 @@
         "name": "Foundation ",
         "description": "Matte Foundation",
         "richDescription": "Latest Foundation",
-        "image": "some_foundation",
         "images": [],
         "brand": "Maybelline",
         "price": 32,
@@ -76,7 +74,6 @@
         "name": "Concealer ",
         "description": "Matte Concealer",
         "richDescription": "Latest Concealer",
-        "image": "some_concealer",
         "images": [],
         "brand": "Maybelline",
         "price": 32,
@@ -100,7 +97,7 @@
         "name": "toto name long to test",
         "description": "toto description",
         "richDescription": "toto rechDesc",
-        "image": "http://localhost:3000/public/uploads/pan.jpg-1661511611287.jpeg",
+        "image": "https://www.pngall.com/wp-content/uploads/2016/04/Sofa-Download-PNG.png",
         "images": [
             "http://localhost:3000/public/uploads/panphoto.jpeg-1661511642598.jpeg",
             "http://localhost:3000/public/uploads/non-stick-frying-pan.jpeg-1661511642600.jpeg"

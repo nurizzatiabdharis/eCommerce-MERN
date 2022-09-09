@@ -1,14 +1,14 @@
 import { StyleSheet, Text, View } from "react-native";
 import React from "react";
 
-const BottomTabNavigator = () => {
+const AdminScreen = () => {
   return (
     <View>
-      <Text>BottomTabNavigator</Text>
+      <Text>AdminScreen</Text>
     </View>
   );
 };
 
-export default BottomTabNavigator;
+export default AdminScreen;
 
 const styles = StyleSheet.create({});

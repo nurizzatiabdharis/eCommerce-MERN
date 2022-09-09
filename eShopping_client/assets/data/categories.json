@@ -1,44 +1,44 @@
 [
     {
+        "_id": "62ff8494c7a56501e5ed84af",
+        "name": "Electronic",
+        "icon": "laptop-outline",
+        "color": "#66D1C8",
+        "__v": 0
+    },
+    {
         "_id": "62ff8478c7a56501e5ed84aa",
-        "name": "cosmetic",
-        "icon": "icon-cosmetic",
-        "color": "#F3DEDE",
+        "name": "Food",
+        "icon": "fast-food-outline",
+        "color": "#FEBF31",
         "__v": 0
     },
     {
         "_id": "65ff8487c7a56501e5ed84ad",
-        "name": "electronic",
-        "icon": "icon-electronic",
+        "name": "Sport",
+        "icon": "american-football-outline",
         "color": "#8BC7E9",
         "__v": 0
     },
     {
-        "_id": "62ff8494c7a56501e5ed84af",
-        "name": "kitchen",
-        "icon": "icon-kitchen",
-        "color": "#9DD7B4",
-        "__v": 0
-    },
-    {
         "_id": "62ff8424c7a56501e5ed84af",
-        "name": "kitchen",
-        "icon": "icon-kitchen",
-        "color": "#F1D161",
+        "name": "Home",
+        "icon": "home-outline",
+        "color": "#9ACE3B",
         "__v": 0
     },
     {
         "_id": "62ff8194c7a56501e5ed84af",
-        "name": "kitchen",
-        "icon": "icon-kitchen",
-        "color": "#DAD7D7",
+        "name": "Health",
+        "icon": "flower-outline",
+        "color": "#FEBB96",
         "__v": 0
     },
     {
         "_id": "62f58494c7a56501e5ed84af",
-        "name": "kitchen",
-        "icon": "icon-kitchen",
-        "color": "#FEBB96",
+        "name": "Kitchen",
+        "icon": "fast-food-outline",
+        "color": "#DAD7D7",
         "__v": 0
     }
 ]

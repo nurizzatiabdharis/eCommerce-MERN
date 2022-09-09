@@ -1,35 +1,24 @@
-import * as React from "react";
-import { Text, View } from "react-native";
+import { StyleSheet, Text, View } from "react-native";
+import React from "react";
+
 import { NavigationContainer } from "@react-navigation/native";
-import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
-import { MainStackNavigator } from "./src/navigation/StackNavigator";
+import { createNativeStackNavigator } from "@react-navigation/native-stack";
 
-function HomeScreen() {
-  return (
-    <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
-      <Text>Home!</Text>
-    </View>
-  );
-}
+// Screens
+import ProductContainer from "./Screens/Products/ProductContainer";
+import Header from "./Shared/Header";
+import Main from "./Navigation/Main";
 
-function SettingsScreen() {
-  return (
-    <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
-      <Text>Settings!</Text>
-    </View>
-  );
-}
-
-const Tab = createBottomTabNavigator();
-
-export default function App() {
+const App = () => {
   return (
     <NavigationContainer>
-      <MainStackNavigator />
-      {/* <Tab.Navigator>
-        <Tab.Screen name="Home" component={HomeScreen} />
-        <Tab.Screen name="Settings" component={SettingsScreen} />
-      </Tab.Navigator> */}
+      <Header />
+      <Main />
+      {/* <ProductContainer /> */}
     </NavigationContainer>
   );
-}
+};
+
+export default App;
+
+const styles = StyleSheet.create({});
